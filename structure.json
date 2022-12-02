@@ -16,7 +16,7 @@
   },
   {
     "content": "Search Input",
-    "path": null,
+    "path": "/search",
     "hierarchy": [{ "lvl0": null }]
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "content": "JavaScript Componets",
-    "path": "https://www.w3schools.com/js/default.asp",
+    "path": "/javascript",
     "hierarchy": [
       { "lvl0": "Variable" },
       { "lvl0": "Type" },
