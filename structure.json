@@ -11,7 +11,7 @@
   },
   {
     "content": "App bar with search filed",
-    "path": null,
+    "path": "",
     "hierarchy": [{ "lvl0": "App Bar" }]
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "content": "Search As Your Type",
-    "path": null,
+    "path": "",
     "hierarchy": [{ "lvl0": null }]
   },
   {
@@ -35,7 +35,7 @@
   },
   {
     "content": "Responsive Componets",
-    "path": null,
+    "path": "",
     "hierarchy": [
       { "lvl0": "Grid box" },
       { "lvl0": "Flex Box" },
